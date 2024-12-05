@@ -10,7 +10,7 @@
         {
           "type": "fixed",
           "text": "Fixed custom user tags causing the agent to fail by excluding them from tag operations"
-        }
+        },
         {
           "type": "changed",
           "text": "Minor log formatting changes"
